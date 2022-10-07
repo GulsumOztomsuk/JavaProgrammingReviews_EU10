@@ -4,7 +4,7 @@ public class CodilityTask {
     public static void main(String[] args) {
 
         // we will getone number from the user(create varible)
-        int number=6;
+        int number=11;
         //we will create variable in order to put our result in it
        String result="";
         //we will check the number is pozitive or negative
@@ -21,8 +21,8 @@ public class CodilityTask {
            if (number % 5 == 0){
                //result=result + "coder"
                result+="coder";
-           }else {
-                result=number + " is not divisiable 2 or 3 or 5";
+           }else{
+                result =number + " is not divisiable 2 or 3 or 5";
            }
        }else {
            System.err.println("number is smaller than 0");

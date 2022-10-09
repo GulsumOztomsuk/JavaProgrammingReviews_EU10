@@ -44,5 +44,13 @@ public class StringMethods {
          String sentence4="Java is not same with java";
         System.out.println(sentence4.replaceFirst("java","C#"));
 
+
+        //if we want to get some part of the string we need to substring()
+        String subs="Cydeo";
+        //get the yde from the subs variable
+        System.out.println(subs.substring(1, 4));
+        //get the cy from the subs
+        System.out.println(subs.substring(0, 1));
+        System.out.println(subs.substring(1));
     }
 }

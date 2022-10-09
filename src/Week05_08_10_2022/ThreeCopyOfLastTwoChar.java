@@ -15,3 +15,9 @@ public class ThreeCopyOfLastTwoChar {
         System.out.println(lastTwo+lastTwo+lastTwo);
     }
 }
+ /*
+        Task 2: Create a logic print a new string made of 3 copies of the last 2 chars of the original string.
+input:Hello
+output:lololo
+      Hint: The string length will be at least 2.
+         */

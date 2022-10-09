@@ -14,7 +14,7 @@ public class StringMethods {
         int indexOfLastChar=lengthOfTheString-1;
         System.out.println(str.charAt(indexOfLastChar));
 
-        //      in order to makeletter to lower case toLowerCase
+        //      in order to make letter to lower case toLowerCase
         System.out.println(str.toLowerCase());
         //in order to makeletter to upper case toUpperCase
         System.out.println(str.toUpperCase());

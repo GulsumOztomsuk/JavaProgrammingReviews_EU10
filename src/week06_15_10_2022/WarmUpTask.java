@@ -5,12 +5,12 @@ public class WarmUpTask {
         String word="Code";
         String temp="";
 
-        for (int i = 1; i < word.length(); i++) {
+        for (int i = 1; i < word.length()+1 ; i++) {
             String str=word.substring(0,i);
            System.out.println(str);
-            temp +=str;
+            //temp +=str;
         }
-        System.out.println(temp+word);
+        System.out.println(temp); //+ word);
     }
 }
 /*

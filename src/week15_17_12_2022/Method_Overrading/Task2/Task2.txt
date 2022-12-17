@@ -1,0 +1,9 @@
+Task 2:
+
+Create an Animal class has a functionality (move()) that
+
+Bird    -----> flying
+Human   -----> walking
+Flower  -----> not moving
+
+Bu kanalda mesaj gönderme iznine sahip değilsin.
